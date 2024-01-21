@@ -1,3 +1,4 @@
 # KnowledgeGate Git learning Project
 
-This repo is only meant to be used.
+This repo is only meant to be used students.
+.
